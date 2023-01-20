@@ -1,0 +1,23 @@
+{
+  "name": "machinery-scraper",
+  "version": "1.0.0",
+  "description": "Web scraping machinery marketplaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FMurray/machinery-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FMurray/machinery-scraper/issues"
+  },
+  "homepage": "https://github.com/FMurray/machinery-scraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^19.5.2"
+  }
+}
